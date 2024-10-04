@@ -1,0 +1,18 @@
+order_id,customer_id,product,qty,price,order_date,status,update_date
+O005,C005,Camera,2,40000,9/20/2024,Cancelled,2-Oct-24
+O015,C015,Vacuum Cleaner,1,15000,11/10/2024,Cancelled,2-Oct-24
+O016,C016,Electric Kettle,2,5000,11/15/2024,Shipped,2-Oct-24
+O017,C017,Iron,1,2000,11/20/2024,Delivered,2-Oct-24
+O018,C018,Hair Dryer,2,3000,11/25/2024,Shipped,2-Oct-24
+O019,C019,Shaver,1,2000,12/1/2024,Delivered,2-Oct-24
+O020,C020,Toothbrush,2,1000,12/5/2024,Shipped,2-Oct-24
+O021,C021,Smartwatch,1,15000,12/10/2024,Delivered,2-Oct-24
+O022,C022,Fitness Tracker,2,8000,12/15/2024,Shipped,2-Oct-24
+O023,C023,Laptop,1,50000,12/20/2024,Delivered,2-Oct-24
+O024,C024,Smartphone,2,30000,12/25/2024,Shipped,2-Oct-24
+O025,C025,Headphones,3,5000,1/1/2025,Delivered,2-Oct-24
+O026,C026,Tablet,1,25000,1/5/2025,Shipped,2-Oct-24
+O027,C027,Camera,2,40000,1/10/2025,Delivered,2-Oct-24
+O028,C028,Watch,1,20000,1/15/2025,Shipped,2-Oct-24
+O029,C029,TV,1,35000,1/20/2025,Delivered,2-Oct-24
+O030,C030,Refrigerator,1,25000,1/25/2025,Shipped,2-Oct-24

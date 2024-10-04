@@ -1,0 +1,2 @@
+order_id,customer_id,product,qty,price,order_date,status,update_date
+O030,C030,Refrigerator,1,25000,1/25/2025,Delivered,3-Oct-24

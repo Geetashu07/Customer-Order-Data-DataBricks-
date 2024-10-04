@@ -1,0 +1,16 @@
+order_id,customer_id,product,qty,price,order_date,status,update_date
+O001,C001,Laptop,1,50000,9/1/2024,Shipped,1-Oct-24
+O002,C002,Smartphone,2,30000,9/5/2024,Delivered,1-Oct-24
+O003,C001,Headphones,3,5000,9/10/2024,Cancelled,1-Oct-24
+O004,C003,Tablet,1,25000,9/15/2024,Shipped,1-Oct-24
+O005,C005,Camera,2,40000,9/20/2024,Delivered,1-Oct-24
+O006,C006,Watch,1,20000,9/25/2024,Shipped,1-Oct-24
+O007,C007,TV,1,35000,9/30/2024,Delivered,1-Oct-24
+O008,C008,Refrigerator,1,25000,10/5/2024,Shipped,1-Oct-24
+O009,C009,Air Conditioner,2,30000,10/10/2024,Delivered,1-Oct-24
+O010,C010,Washing Machine,1,20000,10/15/2024,Shipped,1-Oct-24
+O011,C011,Mixer Grinder,2,5000,10/20/2024,Delivered,1-Oct-24
+O012,C012,Coffee Maker,1,10000,10/25/2024,Shipped,1-Oct-24
+O013,C013,Oven,1,15000,10/30/2024,Delivered,1-Oct-24
+O014,C014,Microwave,2,10000,11/5/2024,Shipped,1-Oct-24
+O015,C015,Vacuum Cleaner,1,15000,11/10/2024,Delivered,1-Oct-24

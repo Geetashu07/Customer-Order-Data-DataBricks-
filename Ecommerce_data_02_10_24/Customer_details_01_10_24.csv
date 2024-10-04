@@ -1,0 +1,21 @@
+customer_id,name,state,city,address,mb_number,pin,valid_from,valid_to
+C001,John Doe,Uttar Pradesh,Ghaziabad,Indirapuram,9876543210,201010,10/1/2024,12/12/9999
+C002,Jane Smith,Delhi,Delhi,Connaught Place,8765432109,110001,10/1/2024,12/12/9999
+C003,Michael Johnson,Maharashtra,Mumbai,Andheri,7654321098,400059,10/1/2024,12/12/9999
+C004,Emily Davis,Tamil Nadu,Chennai,T Nagar,6543210987,600017,10/1/2024,12/12/9999
+C005,David Wilson,Karnataka,Bengaluru,Whitefield,5432109876,560066,10/1/2024,12/12/9999
+C006,Sarah Lee,West Bengal,Kolkata,Park Street,4321098765,700016,10/1/2024,12/12/9999
+C007,Thomas Brown,Andhra Pradesh,Hyderabad,Banjara Hills,3210987654,500034,10/1/2024,12/12/9999
+C008,Olivia Taylor,Telangana,Hyderabad,Hitech City,2109876543,500081,10/1/2024,12/12/9999
+C009,Ethan Green,Rajasthan,Jaipur,Pink City,1098765432,302025,10/1/2024,12/12/9999
+C010,Ava Miller,Gujarat,Ahmedabad,Ellis Bridge,9876543210,380006,10/1/2024,12/12/9999
+C011,Benjamin Johnson,Punjab,Chandigarh,Sector 17,8765432109,160017,10/1/2024,12/12/9999
+C012,Sophia Davis,Haryana,Gurgaon,Golf Course Road,7654321098,122002,10/1/2024,12/12/9999
+C013,William Wilson,Kerala,Kochi,Fort Kochi,6543210987,682001,10/1/2024,12/12/9999
+C014,Lily Harris,Madhya Pradesh,Bhopal,Lake View,5432109876,462001,10/1/2024,12/12/9999
+C015,Noah Carter,Odisha,Bhubaneswar,Janpath,4321098765,751001,10/1/2024,12/12/9999
+C016,Emma Jones,Assam,Guwahati,G S Road,3210987654,781001,10/1/2024,12/12/9999
+C017,Oliver King,Bihar,Patna,Gandhi Maidan,2109876543,800001,10/1/2024,12/12/9999
+C018,Amelia Brown,Jammu & Kashmir,Srinagar,Dal Lake,1098765432,190001,10/1/2024,12/12/9999
+C019,Jacob Miller,Himachal Pradesh,Shimla,Mall Road,9876543210,171001,10/1/2024,12/12/9999
+C020,Abigail Davis,Uttarakhand,Dehradun,Rajpur Road,8765432109,248001,10/1/2024,12/12/9999

@@ -1,0 +1,21 @@
+customer_id,name,state,city,address,mb_number,pin,valid_from,valid_to
+C001,John Doe,Gujarat,Ahmedabad,Ellis Bridge,9876543210,101,10/2/2024,12/12/9999
+C010,Ava Miller,Uttarakhand,Dehradun,Rajpur Road,9876543210,10010,10/2/2024,12/12/9999
+C020,Abigail Davis,Goa,Panaji,Miramar Beach,8765432109,20020,10/2/2024,12/12/9999
+C021,Ethan Johnson,Chhattisgarh,Raipur,Telibandha,7654321098,492001,10/2/2024,12/12/9999
+C022,Sophia Wilson,Jharkhand,Ranchi,Ranchi Lake,6543210987,834001,10/2/2024,12/12/9999
+C023,William Harris,Tripura,Agartala,Ujjayanta Palace,5432109876,799001,10/2/2024,12/12/9999
+C024,Lily Carter,Meghalaya,Shillong,Ward's Lake,4321098765,793001,10/2/2024,12/12/9999
+C025,Noah Jones,Mizoram,Aizawl,Baktawng Falls,3210987654,796001,10/2/2024,12/12/9999
+C026,Emma King,Nagaland,Kohima,Japfü Peak,2109876543,797001,10/2/2024,12/12/9999
+C027,Oliver Brown,Manipur,Imphal,Loktak Lake,1098765432,795001,10/2/2024,12/12/9999
+C028,Amelia Miller,Arunachal Pradesh,Itanagar,Ganga Lake,9876543210,790001,10/2/2024,12/12/9999
+C029,Jacob Davis,Sikkim,Gangtok,Tashi View Point,8765432109,737101,10/2/2024,12/12/9999
+C030,Abigail Johnson,Goa,Panaji,Miramar Beach,7654321098,403001,10/2/2024,12/12/9999
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
